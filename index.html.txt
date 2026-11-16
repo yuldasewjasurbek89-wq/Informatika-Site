@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Информатика мұғалімі</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Информатика мұғалімінің сайты</h1>
+        <p>Білім – болашақтың кілті!</p>
+    </header>
+
+    <nav>
+        <a href="#about">Мен туралы</a>
+        <a href="#lessons">Сабақтар</a>
+        <a href="#contact">Байланыс</a>
+    </nav>
+
+    <section id="about">
+        <h2>Мен туралы</h2>
+        <p>Менің есімім Жасурбек.</p>
+        <p>Мен информатика пәнінің болашақ мұғалімімін.</p>
+        <p>Менің мақсатым – оқушыларға заманауи технологияларды
+        үйрету және цифрлық сауаттылығын дамыту.</p>
+    </section>
+
+    <section id="lessons">
+        <h2>Оқу материалдары</h2>
+        <div class="lesson">
+            <h3>1. Компьютерлік сауаттылық</h3>
+            <p>Компьютердің негізгі құрылғылары мен қызметтері.</p>
+        </div>
+        <div class="lesson">
+            <h3>2. Компьютерлік желілер</h3>
+            <p>Интернет және желілердің түрлері.</p>
+        </div>
+        <div class="lesson">
+            <h3>3. Ақпараттық қауіпсіздік</h3>
+            <p>Жеке деректерді қорғау ережелері.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Байланыс</h2>
+        <p>Мамандығы: Информатика мұғалімі</p>
+        <p>Сайт: Жеке оқу жобасы</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Информатика мұғалімінің сайты</p>
+    </footer>
+
+</body>
+</html>

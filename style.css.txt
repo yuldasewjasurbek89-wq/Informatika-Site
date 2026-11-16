@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    color: #333;
+}
+
+header {
+    background-color: #155e9a;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+header h1 {
+    margin-bottom: 15px;
+}
+
+nav {
+    background-color: #123d60;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+section {
+    background-color: white;
+    margin: 25px auto;
+    padding: 30px;
+    max-width: 850px;
+    border-radius: 10px;
+}
+
+section h2 {
+    color: #155e9a;
+    margin-bottom: 15px;
+}
+
+.lesson {
+    background-color: #e5f1fc;
+    padding: 15px;
+    margin: 12px 0;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #123d60;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
